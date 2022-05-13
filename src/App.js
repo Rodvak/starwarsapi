@@ -13,7 +13,9 @@ function App() {
       <Routes>
         <Route path='/people/:id' element={<Character/>}/>
         <Route path='/planet/:id' element={<Planet/>}/>
+        <Route path='/planet/:id' element={<Planet/>}/>
         <Route path='/starship/:id' element={<Starship/>}/>
+        <Route path= '*' element={<>Error</>}/>
       </Routes>
   </BrowserRouter>
 
