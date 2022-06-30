@@ -1,7 +1,8 @@
 
 # INFOWARS
 
-This project allows the user to explore the world of StarWars, using an API, the user will be able to get information about planets, spaceships and people.
+<p>This project allows the user to explore the world of StarWars.</p>
+<p>Using an API, the user will be able to get information about planets, spaceships and people.</p>
 
 ## Features
 
