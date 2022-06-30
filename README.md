@@ -5,7 +5,8 @@ This project allows the user to explore the world of StarWars, using an API, the
 
 ## Features
 
-![Random Recipes](https://user-images.githubusercontent.com/98990358/176753365-8cec1e05-0c24-483c-a947-cb95eaf83604.gif)
+![InfoWars](https://user-images.githubusercontent.com/98990358/176760738-661f98e1-3ee3-41e5-b801-54a47bf0902f.gif)
+
 
 
 ### Technologies Used
